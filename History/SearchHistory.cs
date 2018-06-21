@@ -1,9 +1,8 @@
-﻿using System.Collections.Generic;
-
-namespace History
+﻿namespace History
 {
+    using System.Collections.Generic;
     public class SearchHistory : IHistory
     {
-        public List<KeyValuePair<string, string>> UserHistory { get; set; }
+        public Dictionary<string, string> UserHistory { get; set; } = new Dictionary<string, string>();
     }
 }

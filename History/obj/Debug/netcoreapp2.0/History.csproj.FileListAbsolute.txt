@@ -1,0 +1,9 @@
+C:\Users\P10290493\source\repos\PingHost\History\bin\Debug\netcoreapp2.0\History.deps.json
+C:\Users\P10290493\source\repos\PingHost\History\bin\Debug\netcoreapp2.0\History.dll
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.AssemblyInfoInputs.cache
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.AssemblyInfo.cs
+C:\Users\P10290493\source\repos\PingHost\History\bin\Debug\netcoreapp2.0\History.pdb
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.dll
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.pdb
+C:\Users\P10290493\source\repos\PingHost\History\obj\Debug\netcoreapp2.0\History.csprojResolveAssemblyReference.cache

@@ -2,10 +2,10 @@
 {
     public interface IStorageLocation
     {
-        IHistory UserHistory { get; set; }
-
         string Location { get; set; }
 
         void Save(IHistory history);
+
+        void Load();
     }
 }
