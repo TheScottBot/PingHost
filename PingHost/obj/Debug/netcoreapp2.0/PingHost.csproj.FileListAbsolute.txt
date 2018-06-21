@@ -1,0 +1,9 @@
+C:\Users\P10290493\source\repos\PingHost\PingHost\bin\Debug\netcoreapp2.0\PingHost.deps.json
+C:\Users\P10290493\source\repos\PingHost\PingHost\bin\Debug\netcoreapp2.0\PingHost.dll
+C:\Users\P10290493\source\repos\PingHost\PingHost\bin\Debug\netcoreapp2.0\PingHost.pdb
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.AssemblyInfoInputs.cache
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.AssemblyInfo.cs
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.dll
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.pdb
+C:\Users\P10290493\source\repos\PingHost\PingHost\obj\Debug\netcoreapp2.0\PingHost.csprojResolveAssemblyReference.cache
