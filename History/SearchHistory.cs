@@ -1,13 +1,9 @@
-﻿namespace History
-{
-    using System.Collections.Generic;
-    public class SearchHistory
-    {
-        private List<KeyValuePair<string, string>> _history;
+﻿using System.Collections.Generic;
 
-        public SearchHistory()
-        {
-            _history = new List<KeyValuePair<string, string>>();
-        }
+namespace History
+{
+    public class SearchHistory : IHistory
+    {
+        public List<KeyValuePair<string, string>> UserHistory { get; set; }
     }
 }
